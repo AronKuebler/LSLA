@@ -11,7 +11,7 @@ This Master Thesis investigates the impact of Large Scale Land Acquisitions (LSL
 
 ## Required Files
 
-The file **"landgrabs"** contains the following folders:
+The file **"LSLA on social conflict"** contains the following folders:
 - `a_microdata`
 - `b_metadata`
 - `c_program`
@@ -75,7 +75,12 @@ The file **"landgrabs"** contains the following folders:
 - Insert files
 
 ---
-
+ 
 ## Execute the Code
 
 Run the code file: **00_master_skript**
+
+**Note in 10_merge_spei_afrogrid:**
+The processing code (Code 10) includes a conditional block that is currently set to if(FALSE). This means the chunk processing step is skipped, and the script expects that the preprocessed merged dataset (conflict_afrogrid_allocated.csv) is already available in the a_microdata folder.
+- When running the code, ensure that the merged dataset is already loaded in the a_microdata folder. If the file is not present, the code will terminate
+- To Process from Scratch (Takes multiple hours!): Change the if(FALSE) statement (line 93)  to if(TRUE) to run the full processing pipeline.
