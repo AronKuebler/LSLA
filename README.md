@@ -5,7 +5,7 @@
 
 ## Project Description
 
-INSERT HERE
+This Master Thesis investigates the impact of Large Scale Land Acquisitions (LSLA) on social conflict in Africa between 2003 and 2018. The research examines whether the expansion of LSLA activities is associated with increased incidents of social unrest and conflict, considering both environmental and socioeconomic factors. By integrating multiple data sources and applying various statistical methods, the project aims to provide robust evidence on the LSLA–conflict nexus.
 
 ---
 
