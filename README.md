@@ -50,6 +50,7 @@ The file **"landgrabs"** contains the following folders:
   - **Year of initiation:** 2003-2018
   - **Intention of investment:** not no information
 - Click download as **xlsx** (file called "export")
+- Rename export to "LSLA"
 
 ---
 
