@@ -29,7 +29,7 @@ The file **"LSLA on social conflict"** contains the following folders:
 
 ---
 
-## 2. PRIO GRID DATA
+## 2. PRIO Grid Datasets
 
 [PRIO GRID DATA Download](https://grid.prio.org/#/download)
 - **Download static variables:**
