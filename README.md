@@ -17,7 +17,7 @@ The file **"LSLA on social conflict"** contains the following folders:
 - `c_program`
 - `d_results`
 
-*Generally, all files have to be loaded into the folder "b_metadata".*
+*All files have to be loaded into the folder "b_metadata".*
 
 ---
 
@@ -75,7 +75,15 @@ The file **"LSLA on social conflict"** contains the following folders:
 - Insert files
 
 ---
- 
+
+ ## 7. African Boundary
+
+[African Boundaries on opendatasoft](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?location=2,14.26438,51.32813&basemap=jawg.light)
+- Download GeoJSON file
+- Rename to "Africa_countries.geojson" in "b_metadata"
+
+---
+
 ## Execute the Code
 
 Run the code file: **00_master_skript**
