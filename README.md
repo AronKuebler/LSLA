@@ -71,7 +71,16 @@ The file **"LSLA on social conflict"** contains the following folders:
 
 ---
 
- ## 6. African Boundary
+## 6. Population
+
+[Nighttime Lights Dataset on Figshare](https://hub.worldpop.org/geodata/summary?id=139)
+- Download entire Dataset
+- Create folder **"population"** in "b_metadata"
+- Insert files
+  
+---
+
+ ## 7. African Boundary
 
 [African Boundaries on opendatasoft](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?location=2,14.26438,51.32813&basemap=jawg.light)
 - Download GeoJSON file
