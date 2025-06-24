@@ -35,8 +35,6 @@ The file **"LSLA on social conflict"** contains the following folders:
 - **Download static variables:**
   - Total land area (change name to "PRIO-landarea")
   - Agriculture land (Globcover) (change name to "PRIO-agriland")
-- **Download yearly variables:**
-  - Distance to capital (2014 - 2014) (change name to "PRIO-GRID Distance Capital")
 
 ---
 
